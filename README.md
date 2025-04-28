@@ -1,12 +1,42 @@
-# React + Vite
+# 📄 React PDF Viewer Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A customizable **PDF Viewer Toolkit** built with **React.js**, **Vite**, **react-pdf**, and **Material UI (MUI)**.  
+It supports **two viewing modes** — paginated view and single-page continuous view — along with **zooming** and **fullscreen** features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📄 **View PDF Files** using `react-pdf`
+- 🔢 **Pagination Mode** — View one page at a time with navigation
+- 📜 **Single Continuous View** — Render all pages vertically
+- 🔍 **Zoom In / Zoom Out** PDF Pages
+- 🖥️ **Fullscreen Mode** for immersive viewing
+- 🎨 **Material UI Design** for a clean and responsive interface
+- ⚡ Built with **Vite** for fast performance and hot reloads
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- **React.js**
+- **Vite**
+- **react-pdf**
+- **Material UI (MUI)**
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/react-pdf-viewer-toolkit.git
+
+# Navigate to the project directory
+cd react-pdf-viewer-toolkit
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
