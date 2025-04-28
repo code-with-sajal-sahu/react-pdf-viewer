@@ -16,6 +16,11 @@ It supports **two viewing modes** — paginated view and single-page continuous 
 - ⚡ Built with **Vite** for fast performance and hot reloads
 
 ---
+## Screenshot
+![image](https://github.com/user-attachments/assets/c54f4860-ceb3-4e94-a55c-1c7c025fd4a9)
+
+
+---
 
 ## 🛠️ Technologies Used
 
