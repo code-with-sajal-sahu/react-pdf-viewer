@@ -30,10 +30,10 @@ It supports **two viewing modes** — paginated view and single-page continuous 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-pdf-viewer-toolkit.git
+git clone [https://github.com/your-username/react-pdf-viewer-toolkit.git](https://github.com/code-with-sajal-sahu/react-pdf-viewer.git)
 
 # Navigate to the project directory
-cd react-pdf-viewer-toolkit
+cd react-pdf-viewer
 
 # Install dependencies
 npm install
