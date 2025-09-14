@@ -16,6 +16,11 @@ It supports **two viewing modes** — paginated view and single-page continuous 
 - ⚡ Built with **Vite** for fast performance and hot reloads
 
 ---
+## Screenshot
+![image](https://github.com/user-attachments/assets/c54f4860-ceb3-4e94-a55c-1c7c025fd4a9)
+
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -30,10 +35,10 @@ It supports **two viewing modes** — paginated view and single-page continuous 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-pdf-viewer-toolkit.git
+git clone https://github.com/code-with-sajal-sahu/react-pdf-viewer.git
 
 # Navigate to the project directory
-cd react-pdf-viewer-toolkit
+cd react-pdf-viewer
 
 # Install dependencies
 npm install
